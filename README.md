@@ -8,6 +8,7 @@ For this weeks assignment I was required to work on a webpage portfolio and incl
 ## Sources
 
 LQIP: https://matrixread.com/lqip-in-the-web/
+First Assignment: https://nigeldwatkins.github.io/Refract-CSS/
 
 
 ## Author
